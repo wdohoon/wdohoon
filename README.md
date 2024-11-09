@@ -29,11 +29,5 @@
 ## 📫 연락처
 - **Velog**: [https://velog.io/@wdohoon](https://velog.io/@wdohoon)
 
-## 📝 최신 블로그 포스트
-<!-- BLOG-POST-LIST:START -->
-- [포스트 1 제목](https://velog.io/@wdohoon/포스트-1-링크)
-- [포스트 2 제목](https://velog.io/@wdohoon/포스트-2-링크)
-- [포스트 3 제목](https://velog.io/@wdohoon/포스트-3-링크)
-<!-- BLOG-POST-LIST:END -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,100:FF5733&height=200&section=footer)

@@ -28,6 +28,7 @@
 
 ## 📫 연락처
 - **Velog**: [https://velog.io/@wdohoon](https://velog.io/@wdohoon)
+- **Email**: dnjsehgns98@gmail.com
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,100:FF5733&height=200&section=footer)

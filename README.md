@@ -1,5 +1,20 @@
 # 안녕하세요! 👋 wdohoon입니다!
 
+<span id="animated-intro"></span>
+
+<script>
+const introText = "안녕하세요! 👋 wdohoon입니다!";
+let index = 0;
+function typeEffect() {
+    if (index < introText.length) {
+        document.getElementById("animated-intro").innerHTML += introText.charAt(index);
+        index++;
+        setTimeout(typeEffect, 100);
+    }
+}
+window.onload = typeEffect;
+</script>
+
 저는 열정적인 프론트엔드 개발자로 주로 **React**, **JavaScript**, **TypeScript**와 같은 최신 기술 스택을 사용하여 아름답고, 효율적이며 사용자 친화적인 웹 애플리케이션을 만드는 데 집중하고 있습니다. 💻💡 끊임없이 배우고 성장하는 개발자이며, **코드 품질과 사용자 경험**을 무엇보다 중요하게 생각합니다.
 
 ## 🛠️ 기술 스택 및 도구

@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=프론트엔드+개발자+원도훈입니다." alt="Typing SVG">
 </p>
 
-# 안녕하세요. 프론트엔드 개발자 원도훈입니다. 👋
+# 안녕하세요. 프론트엔드 개발자 원도훈입니다.
 프론트엔드 개발자로서 사용자 경험을 향상시키는 웹 애플리케이션을 개발하는 데 열정을 가지고 있습니다. 최신 기술과 트렌드를 학습하며, 지속적인 성장을 추구하고 있습니다.
 
 ## 🛠 기술 스택

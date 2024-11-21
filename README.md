@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:1C1C1C&height=300&section=header&text=Frontend%20Developer%20Wondohoon&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=프론트엔드+개발자+원도훈입니다." alt="Typing SVG">
+</p>
+
 # 👋 안녕하세요. 프론트엔드 개발자 원도훈입니다.
 
 <p align="center">

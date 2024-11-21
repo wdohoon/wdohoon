@@ -59,7 +59,15 @@
 
 ## 🐾 애니메이션 커밋
 <p align="center">
-  <img src="https://commit.animals/api/badge?user=wdohoon&style=flat-square&color=FF5733" alt="Commit Animals" />
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/wdohoon"
+    width="600"
+    height="120"
+  />
+</a>
+  
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,100:FF5733&height=200&section=footer)

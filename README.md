@@ -71,13 +71,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wdohoon&theme=radical&hide_border=true&stroke=FF5733&background=1C1C1C" alt="GitHub Streak" />
 </p>
 
-## 🐱‍🏍 사용 중인 프로젝트
-<p align="left">
-  <!-- 프로젝트 목록을 추가하세요 -->
-  - [**프로젝트 이름**](프로젝트 링크) - 간단한 설명
-  - [**프로젝트 이름**](프로젝트 링크) - 간단한 설명
-  - [**프로젝트 이름**](프로젝트 링크) - 간단한 설명
-</p>
 
 ## 📫 연락처
 <p align="left">
@@ -86,15 +79,6 @@
   </a>
   <a href="mailto:dnjsehgns98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/wdohoon">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://notion.so/your-notion-page">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion"/>
-  </a>
-  <a href="https://slack.com/your-slack">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" alt="Slack"/>
   </a>
 </p>
 

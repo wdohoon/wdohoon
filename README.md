@@ -10,12 +10,6 @@
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Welcome" width="300"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/wdohoon">
-    <img src="https://img.shields.io/github/followers/wdohoon?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-</p>
-
 <p align="left">
   프론트엔드 개발자로서 사용자 경험을 향상시키는 웹 애플리케이션을 개발하는 데 열정을 가지고 있습니다. 최신 기술과 트렌드를 학습하며, 지속적인 성장을 추구하고 있습니다.
 </p>

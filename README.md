@@ -7,10 +7,6 @@
 # 👋 안녕하세요. 프론트엔드 개발자 원도훈입니다.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Welcome" width="300"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/wdohoon">
     <img src="https://img.shields.io/github/followers/wdohoon?label=Follow&style=social" alt="GitHub Followers">
   </a>

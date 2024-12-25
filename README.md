@@ -1,89 +1,117 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:1C1C1C&height=300&section=header&text=Frontend%20Developer%20Wondohoon&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:1C1C1C&height=300&section=header&text=Frontend%20Developer&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=Welcome%20to%20Wondohoon's%20GitHub%20Profile&descAlignY=65&descAlign=50)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=프론트엔드+개발자+원도훈" alt="Typing SVG">
-</p>
-
-# 안녕하세요. 프론트엔드 개발자 원도훈입니다.
-
-<p align="center">
-  <a href="https://github.com/wdohoon">
-    <img src="https://img.shields.io/github/followers/wdohoon?label=Follow&style=social" alt="GitHub Followers">
+<div align="center">
+  
+  <!-- Enhanced Typing SVG with better spacing and multiple lines -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=프론트엔드+개발자+원도훈;Creative+Frontend+Developer;Always+Learning+%26+Growing" alt="Typing SVG" />
   </a>
-</p>
 
-<p align="left">
-  프론트엔드 개발자로서 사용자 경험을 향상시키는 웹 애플리케이션을 개발하는 데 열정을 가지고 있습니다. 최신 기술과 트렌드를 학습하며, 지속적인 성장을 추구하고 있습니다.
-</p>
+  <!-- Enhanced Profile Badges -->
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=wdohoon&style=for-the-badge&color=FF5733" alt="Profile Views" />
+    <a href="https://github.com/wdohoon?tab=followers">
+      <img src="https://img.shields.io/github/followers/wdohoon?style=for-the-badge&logo=github&labelColor=1C1C1C&color=FF5733" alt="GitHub followers" />
+    </a>
+    <img src="https://img.shields.io/github/stars/wdohoon?style=for-the-badge&logo=github&labelColor=1C1C1C&color=FF5733" alt="GitHub Stars" />
+  </div>
 
-## 🛠 기술 스택
+  <!-- Animated Wave -->
+  <img width="100%" src="https://raw.githubusercontent.com/wdohoon/wdohoon/output/wave.gif" />
 
-### **프론트엔드**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white" alt="SCSS"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=Tailwind%20CSS&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled Components"/>
-</p>
+  <!-- About Me Section with Custom Design -->
+  <div align="center">
+    <img width="50%" src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=churchill&font=default" />
+  </div>
 
-### **백엔드**
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
-</p>
+  <!-- Enhanced About Me Content -->
+  <table align="center">
+    <tr>
+      <td>
+        <h3 align="center">🌟 About Me</h3>
+        <div align="center">
+          <p><strong>프론트엔드 개발자로서 사용자 경험을 향상시키는</strong></p>
+          <p><strong>웹 애플리케이션을 개발하는 데 열정을 가지고 있습니다.</strong></p>
+          <br/>
+          <p>🎯 최신 기술과 트렌드를 학습하며, 지속적인 성장을 추구합니다.</p>
+          <p>💡 창의적인 문제 해결과 효율적인 코드 작성을 지향합니다.</p>
+          <p>🚀 사용자 중심의 인터페이스 개발에 집중합니다.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### **데이터베이스**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL"/>
-</p>
+<!-- Enhanced Tech Stack Section with Animations -->
+<details>
+<summary><h2>🛠️ Technical Skills</h2></summary>
+<div align="center">
 
-### **기타 도구**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white" alt="IntelliJ"/>
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black" alt="Webpack"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" alt="Slack"/>
-</p>
+<h3>🌈 Frontend Development</h3>
 
-## 📈 GitHub 통계
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wdohoon&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Anurag's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdohoon&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript" />
 </p>
 
-## 📊 커밋 활동
+<h3>🎨 Styling & Design</h3>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wdohoon&theme=radical&hide_border=true&stroke=FF5733&background=1C1C1C" alt="GitHub Streak" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents" />
 </p>
 
+<h3>⚙️ Backend & Database</h3>
 
-## 📫 연락처
-<p align="left">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,php,python,postgresql,mysql,oracle" />
+</p>
+
+<h3>🛠️ Development Tools</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,webpack" />
+</p>
+
+</div>
+</details>
+
+<!-- Enhanced GitHub Stats with Custom Design -->
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wdohoon&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF5733&icon_color=FF5733&text_color=FFFFFF&ring_color=FF5733" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wdohoon&theme=radical&hide_border=true&background=0D1117&ring=FF5733&fire=FF5733&currStreakNum=FFFFFF&currStreakLabel=FF5733&sideNums=FFFFFF&sideLabels=FF5733&dates=FFFFFF" width="49%" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wdohoon&custom_title=Wondohoon's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FF5733&line=FF5733&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="98%"/>
+</div>
+
+<!-- Enhanced Contribution Animation -->
+<h2 align="center">🌱 Contributions</h2>
+
+<div align="center">
+  <img src="https://github.com/wdohoon/wdohoon/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<!-- Enhanced GitAnimals Farm with Custom Border -->
+<div align="center">
+  <h2>🌿 Growth Animation</h2>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/wdohoon" width="850" height="400" style="border-radius: 10px; border: 2px solid #FF5733;" alt="GitAnimals Farm"/>
+  </a>
+</div>
+
+<!-- Enhanced Contact Section -->
+<h2 align="center">📫 Connect with Me</h2>
+
+<div align="center">
   <a href="https://velog.io/@wdohoon">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog"/>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/>
   </a>
   <a href="mailto:dnjsehgns98@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
+</div>
 
-## 🐾 애니메이션 커밋
-<p align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/wdohoon" width="600" height="300" alt="GitAnimals Farm"/>
-  </a>
-</p>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,100:FF5733&height=200&section=footer)
-
+<!-- Enhanced Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,100:FF5733&height=200&section=footer&text=Thank%20you%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn)

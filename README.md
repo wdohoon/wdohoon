@@ -4,25 +4,11 @@
   
   <!-- Enhanced Typing SVG with better spacing and multiple lines -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=프론트엔드+개발자+원도훈;Creative+Frontend+Developer;Always+Learning+%26+Growing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=프론트엔드+개발자+원도훈;Creative+Frontend+Developer;" alt="Typing SVG" />
   </a>
-
-  <!-- Enhanced Profile Badges -->
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=wdohoon&style=for-the-badge&color=FF5733" alt="Profile Views" />
-    <a href="https://github.com/wdohoon?tab=followers">
-      <img src="https://img.shields.io/github/followers/wdohoon?style=for-the-badge&logo=github&labelColor=1C1C1C&color=FF5733" alt="GitHub followers" />
-    </a>
-    <img src="https://img.shields.io/github/stars/wdohoon?style=for-the-badge&logo=github&labelColor=1C1C1C&color=FF5733" alt="GitHub Stars" />
-  </div>
 
   <!-- Animated Wave -->
   <img width="100%" src="https://raw.githubusercontent.com/wdohoon/wdohoon/output/wave.gif" />
-
-  <!-- About Me Section with Custom Design -->
-  <div align="center">
-    <img width="50%" src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=churchill&font=default" />
-  </div>
 
   <!-- Enhanced About Me Content -->
   <table align="center">
@@ -84,13 +70,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wdohoon&custom_title=Wondohoon's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FF5733&line=FF5733&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="98%"/>
-</div>
-
-<!-- Enhanced Contribution Animation -->
-<h2 align="center">🌱 Contributions</h2>
-
-<div align="center">
-  <img src="https://github.com/wdohoon/wdohoon/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 <!-- Enhanced GitAnimals Farm with Custom Border -->

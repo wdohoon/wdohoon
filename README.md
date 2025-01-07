@@ -65,7 +65,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wdohoon&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF5733&icon_color=FF5733&text_color=FFFFFF&ring_color=FF5733" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wdohoon&theme=radical&hide_border=true&background=0D1117&ring=FF5733&fire=FF5733&currStreakNum=FFFFFF&currStreakLabel=FF5733&sideNums=FFFFFF&sideLabels=FF5733&dates=FFFFFF" width="49%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">

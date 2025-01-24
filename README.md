@@ -60,18 +60,6 @@
 </div>
 </details>
 
-<!-- Enhanced GitHub Stats with Custom Design -->
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wdohoon&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF5733&icon_color=FF5733&text_color=FFFFFF&ring_color=FF5733" width="49%" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wdohoon&custom_title=Wondohoon's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FF5733&line=FF5733&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="98%"/>
-</div>
-
-<!-- Enhanced GitAnimals Farm with Custom Border -->
 <div align="center">
   <h2>🌿 Growth Animation</h2>
   <a href="https://github.com/devxb/gitanimals">
